@@ -17,8 +17,8 @@
 | light2         | #D5C4A1      | rgb(213, 196, 161) | bright_green   | #B8BB26      | rgb(184, 187,  38) |
 | light1         | #EBDBB2      | rgb(235, 219, 178) | bright_aqua    | #8EC07C      | rgb(142, 192, 124) |
 | light0_soft    | #F2E5BC      | rgb(242, 229, 188) | bright_blue    | #83A598      | rgb(131, 165, 152) |
-| light0         | #FBF1C7      | rgb(253, 244, 193) | bright_purple  | #D3869B      | rgb(211, 134, 155) |
-| light0_hard    | #F9F5D7      | rgb(249, 245, 215) | faded_red      | #9D0006      | rgb(157,   0,   6) |
+| light0         | #F2E5BC      | rgb(253, 244, 193) | bright_purple  | #D3869B      | rgb(211, 134, 155) |
+| light0_hard    | #F2E5BC      | rgb(249, 245, 215) | faded_red      | #9D0006      | rgb(157,   0,   6) |
 |                |              |                    | faded_orange   | #AF3A03      | rgb(175,  58,   3) |
 |                |              |                    | faded_yellow   | #B57614      | rgb(181, 118,  20) |
 |                |              |                    | faded_green    | #79740E      | rgb(121, 116,  14) |
@@ -28,8 +28,8 @@
 
 ## Major changes from POP theme
 
-#FFFFFF rgb(255, 255, 255) to #F9F5D7 rgb(249, 245, 215)  
-#FAFAFA rgb(250, 250, 250) to #FBF1C7 rgb(253, 244, 193)  
+#FFFFFF rgb(255, 255, 255) to #F2E5BC rgb(249, 245, 215)  
+#FAFAFA rgb(250, 250, 250) to #F2E5BC rgb(253, 244, 193)  
 #F5F5F5 rgb(245, 245, 245) to #F2E5BC rgb(242, 229, 188)  
 
 #252220 to #1D2021 - Topbar background  
